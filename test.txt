@@ -1,0 +1,2 @@
+This is new file planning for commit
+Changing file before commit and after add
